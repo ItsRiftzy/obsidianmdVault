@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "45da33c7df0ffb5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2097e4dabf766603",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Factorising.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7424c1a9cd47aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e846ce0b3203c31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3716dd0862d779",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3634d0bc5e1946b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c5450721ae46771",
+    "type": "split",
+    "children": [
+      {
+        "id": "799df32daab4dc4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52b13cbd4e9ec4a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Factorising.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24e03bf0191322e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2097e4dabf766603",
+  "lastOpenFiles": [
+    "Factorising.md",
+    "+Home.md",
+    "000 - Daily Notes/2022-06-08.md",
+    "001 - Inbox/Zettelkasten - Fleeting Notes.md",
+    "999 Templates/Daily Template.md",
+    "999 Templates/Note Template.md",
+    "2022-06-08.md",
+    "999 Templates/Project Template.md",
+    "202206061148.md",
+    "Maths Temporary.md"
+  ]
+}

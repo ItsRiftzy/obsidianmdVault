@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "en-AU"
+  ]
+}
